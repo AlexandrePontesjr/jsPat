@@ -1,0 +1,22 @@
+{
+  "name": "jspat",
+  "version": "1.0.0",
+  "description": "Fazer um protótipo de sistema de patrimonio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandrePontesjr/jsPat.git"
+  },
+  "author": "Alexandre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandrePontesjr/jsPat/issues"
+  },
+  "homepage": "https://github.com/AlexandrePontesjr/jsPat#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
